@@ -194,7 +194,7 @@ http://localhost:8501
 - Deployment: Streamlit Documentation
 
 ## 👤 Intern Details
-- **Name:** Medipalli Satya Sreepradha Hamsika
+- **Name:** Kamtanam Bhavana
 - **Internship:** SkillCraft Technology
 - **Task:** 02 — K-Means Clustering
 - **Domain:** Machine Learning
